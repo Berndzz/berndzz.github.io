@@ -1,5 +1,5 @@
 # Huge Thanks 🔥
-- For fachridantm 🙏
+- For [fachridantm](https://github.com/fachridantm) 🙏
 
 # Personal Portfolio 🔥
 
