@@ -1,5 +1,4 @@
-# Huge Thanks 🔥
-- For [fachridantm](https://github.com/fachridantm) 🙏
+
 
 # Personal Portfolio 🔥
 
@@ -59,6 +58,9 @@
 #### Step 3
 
 - 🔃 Create a new pull request.
+
+## Huge Thanks 🔥
+- For [fachridantm](https://github.com/fachridantm) 🙏
 
 ## License
 
