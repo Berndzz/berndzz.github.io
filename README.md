@@ -1,3 +1,6 @@
+# Huge Thanks 🔥
+- For fachridantm 🙏
+
 # Personal Portfolio 🔥
 
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/fachridantm.github.io/commits/master)
@@ -24,14 +27,14 @@
 
 ✔️ About
 ✔️ Skills & Tools
-✔️ Recommendations
-✔️ Education
-✔️ Certifications
-✔️ Awards
-✔️ Experience
+<!-- ✔️ Recommendations -->
+<!-- ✔️ Education -->
+<!-- ✔️ Certifications -->
+<!-- ✔️ Awards -->
+<!-- ✔️ Experience -->
 ✔️ Projects
-✔️ Resume
-✔️ Links
+✔️ CV
+<!-- ✔️ Links -->
 ✔️ Contact
 
 ## Tools Used 🛠️
