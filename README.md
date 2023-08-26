@@ -1,6 +1,7 @@
 
 
 # Personal Portfolio 🔥
+[Portofolio Link](https://berndzz.github.io/)
 
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/fachridantm.github.io/commits/master)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
